@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/alfredosa/GoDiscordBot/config"
-	"github.com/bahtamman/StockBot/config"
 	"github.com/bwmarrin/discordgo"
 )
 
